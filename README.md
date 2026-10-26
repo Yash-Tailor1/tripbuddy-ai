@@ -165,7 +165,11 @@ http://127.0.0.1:8000/docs
 
 ## 🌐 Deployment
 
-TripBuddy-AI can be deployed to a compatible hosting platform that supports Python applications and the required environment variables.
+TripBuddy-AI is deployed on Render and accessible online.
+
+**Live Application:** [Launch TripBuddy-AI](https://tripbuddy-ai-1.onrender.com)
+
+The application is hosted on Render, with environment variables configured for the deployed service.
 
 Before deployment:
 
@@ -173,8 +177,6 @@ Before deployment:
 - Configure the required API keys securely.
 - Set the correct application startup command.
 - Verify that external APIs and agent workflows operate correctly in the deployed environment.
-
-**Live Demo:** Add your deployed application URL here when available.
 
 ## 🔒 Security
 
